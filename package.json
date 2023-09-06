@@ -1,0 +1,15 @@
+{
+  "name": "mi-proyecto-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mi-tarea": "node miarchivo.js",
+    "tarea1": "node archivo1.js",
+    "tarea2": "node archivo2.js",
+    "sumar": "ts-node sumar.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
